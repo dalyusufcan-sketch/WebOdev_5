@@ -1,1 +1,1 @@
-# WebOdev_5
+# Web progamlama dersi 5. ödevi
